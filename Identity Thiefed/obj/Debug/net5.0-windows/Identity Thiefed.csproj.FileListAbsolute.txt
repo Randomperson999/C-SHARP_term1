@@ -1,0 +1,18 @@
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\bin\Debug\net5.0-windows\Identity Thiefed.exe
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\bin\Debug\net5.0-windows\Identity Thiefed.deps.json
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\bin\Debug\net5.0-windows\Identity Thiefed.runtimeconfig.json
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\bin\Debug\net5.0-windows\Identity Thiefed.runtimeconfig.dev.json
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\bin\Debug\net5.0-windows\Identity Thiefed.dll
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\bin\Debug\net5.0-windows\ref\Identity Thiefed.dll
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\bin\Debug\net5.0-windows\Identity Thiefed.pdb
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.csproj.AssemblyReference.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity_Thiefed.form_getInfo.resources
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.csproj.GenerateResource.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.AssemblyInfoInputs.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.AssemblyInfo.cs
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.csproj.CoreCompileInputs.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.dll
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\ref\Identity Thiefed.dll
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.pdb
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Identity Thiefed\obj\Debug\net5.0-windows\Identity Thiefed.genruntimeconfig.cache

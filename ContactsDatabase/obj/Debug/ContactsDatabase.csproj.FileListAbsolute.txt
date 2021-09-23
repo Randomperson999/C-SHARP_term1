@@ -1,0 +1,12 @@
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\bin\Debug\PersonInfo.mdf
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\bin\Debug\PersonInfo_log.ldf
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\bin\Debug\ContactsDatabase.exe.config
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\bin\Debug\ContactsDatabase.exe
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\bin\Debug\ContactsDatabase.pdb
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\obj\Debug\ContactsDatabase.csproj.AssemblyReference.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\obj\Debug\ContactsDatabase.Form1.resources
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\obj\Debug\ContactsDatabase.Properties.Resources.resources
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\obj\Debug\ContactsDatabase.csproj.GenerateResource.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\obj\Debug\ContactsDatabase.csproj.CoreCompileInputs.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\obj\Debug\ContactsDatabase.exe
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ContactsDatabase\obj\Debug\ContactsDatabase.pdb

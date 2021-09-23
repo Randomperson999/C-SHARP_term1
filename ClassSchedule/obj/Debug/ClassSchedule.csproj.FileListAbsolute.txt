@@ -1,0 +1,7 @@
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ClassSchedule\bin\Debug\ClassSchedule.exe.config
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ClassSchedule\bin\Debug\ClassSchedule.exe
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ClassSchedule\bin\Debug\ClassSchedule.pdb
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ClassSchedule\obj\Debug\ClassSchedule.csproj.AssemblyReference.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ClassSchedule\obj\Debug\ClassSchedule.csproj.CoreCompileInputs.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ClassSchedule\obj\Debug\ClassSchedule.exe
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\ClassSchedule\obj\Debug\ClassSchedule.pdb
