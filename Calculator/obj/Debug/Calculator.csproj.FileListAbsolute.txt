@@ -1,0 +1,10 @@
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\bin\Debug\Calculator.exe
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\bin\Debug\Calculator.pdb
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\obj\Debug\Calculator.formCalc.resources
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\obj\Debug\Calculator.exe
+C:\Users\caleb.keller\OneDrive - tooelesd\Desktop\C-SHARP-1stTerm\Calculator\obj\Debug\Calculator.pdb
